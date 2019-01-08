@@ -2,3 +2,7 @@ script title: Exist
 notes: has to deal w/ human interaction- how we deal w/ each other.
 through in aliens as backgrop... think Walking Dead and zombies
 two factions
+
+setting: initial desolate location. military black site
+
+characters: cole- deadbeat dad trying to rekindle his relationship w/ his daughter
